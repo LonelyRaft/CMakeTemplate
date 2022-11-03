@@ -5,14 +5,14 @@
             "source": "PowerShell",
             "icon": "terminal-powershell",
             "env": {
-                "PATH": "${env:path};D:/MSYS2/mingw32/bin;D:/MSYS2/usr/bin;D:/MSYS2/opt/OpenOCD/bin"
+                "PATH": "${env:path};D:/MSYS2/mingw32/bin;D:/MSYS2/usr/bin"
             }
         },
         "PowerShell64": {
             "source": "PowerShell",
             "icon": "terminal-powershell",
             "env": {
-                "PATH": "${env:path};D:/MSYS2/mingw64/bin;D:/MSYS2/usr/bin;D:/MSYS2/opt/OpenOCD/bin"
+                "PATH": "${env:path};D:/MSYS2/mingw64/bin;D:/MSYS2/usr/bin"
             }
         },
         "PowerShell": null,
